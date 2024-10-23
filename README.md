@@ -47,7 +47,8 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-![Screenshot 2024-10-16 114754](https://github.com/user-attachments/assets/6672187d-8c19-4835-b757-3f870c2ec969)
+![Screenshot 2024-10-23 093446](https://github.com/user-attachments/assets/ffd67583-d87b-4947-97ed-f33b3363c51c)
+
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
