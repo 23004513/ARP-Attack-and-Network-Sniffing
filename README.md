@@ -53,7 +53,7 @@ sudo dsnifff
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
-![image](https://github.com/user-attachments/assets/c0420916-ad89-4183-b287-079e2e23e430)
+![Screenshot 2024-10-23 094013](https://github.com/user-attachments/assets/b890fcc0-7282-46de-9af6-256347be0655)
 
 
 ## RESULT:
